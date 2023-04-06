@@ -1,4 +1,4 @@
-# Passwd Analysis - Password Analysis tool using R programming language
+# PassCheckR - Password Analysis tool to check password strength using R programming language
 # @whoami-anoint
 # anoint.02
 
