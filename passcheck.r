@@ -7,7 +7,7 @@ min_length <- 8
 uppercase <- "[A-Z]"
 lowercase <- "[a-z]"
 numbers <- "[0-9]"
-special_characters <- "~`! @#$%^&*()_-+={[}]|\:;"'<,>.?/"
+special_characters <- " !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
 
 # Define function to check if password is strong
 check_password_strength <- function(password) {
